@@ -17,7 +17,7 @@ In this question, you have to compare the performance on a binary classification
 -> VGG (3 blocks)  
 -> VGG (3 blocks) with data augmentation  
 -> Transfer learning using VGG16 or VGG19  
-Refer [this]([https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/]) article You do not need to write your own code. You can reuse the code from the post. Or, you could roll out your own implemenation. Either way, you should be able to explain your code during the viva.  
+Refer [this](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/) article You do not need to write your own code. You can reuse the code from the post. Or, you could roll out your own implemenation. Either way, you should be able to explain your code during the viva.  
 
 You need to create the dataset on your own based on your first names. For instance if the first name of the team members are: Siya and Raghav, they can choose a dataset of their liking based on any names, place, animal or thing. As examples:  
 
@@ -25,7 +25,7 @@ You need to create the dataset on your own based on your first names. For instan
 -> Snake v/s Rat  
 -> Squirrel v/s Rabbit  
 -> Sambhar v/s Roti  
-You can refer to [resource 1]([https://python.plainenglish.io/how-to-automatically-download-bulk-images-for-your-dataset-using-python-f1efffba7a03]) or [resource 2]([https://github.com/JorgePoblete/DuckDuckGoImages]) or plainly download 100 images of both classes (total 200 images). Of these 100 images of each class, we will use 80 for training and 20 for testing. You get 1 mark for dataset creation [1 mark]  
+You can refer to [resource 1](https://python.plainenglish.io/how-to-automatically-download-bulk-images-for-your-dataset-using-python-f1efffba7a03) or [resource 2](https://github.com/JorgePoblete/DuckDuckGoImages) or plainly download 100 images of both classes (total 200 images). Of these 100 images of each class, we will use 80 for training and 20 for testing. You get 1 mark for dataset creation [1 mark]  
   
 Create a table with models as rows and the following columns [2 marks (0.5 marks for each model)]  
   
@@ -37,8 +37,8 @@ Create a table with models as rows and the following columns [2 marks (0.5 marks
   
 We will now be using Tensorboard for visualizing network performance. You are suggested to refer to:  
   
--> [PyTorch + Tensorboard]([https://www.youtube.com/watch?v=RLqsxWaQdHE])  
--> [Tensorflow + Tensorboard]([https://www.youtube.com/watch?v=k7KfYXXrOj0])  
+-> [PyTorch + Tensorboard](https://www.youtube.com/watch?v=RLqsxWaQdHE)  
+-> [Tensorflow + Tensorboard](https://www.youtube.com/watch?v=k7KfYXXrOj0)  
 -> Use Tensorboard to log the following and present screenshots/images [1 mark]  
   
 Scalars  
