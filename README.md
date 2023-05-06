@@ -1,5 +1,7 @@
 # Animal-Binary-Classification-using-VGG
 ## Assignment 5 for ES 654 Machine Learning by Prof. Nipun Batra
+Members: Aaryan Darad, Sachin Jalan  
+
 Binary Classification between apes and snakes using multiple VGG models which is a CNN based Deep Learning architecture  
 
 General instructions
